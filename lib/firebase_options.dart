@@ -70,7 +70,8 @@ class DefaultFirebaseOptions {
     messagingSenderId: '458108188251',
     projectId: 'parking-6f358',
     storageBucket: 'parking-6f358.appspot.com',
-    iosClientId: '458108188251-6lb1ordniffq3uigmrq9mkju9s4d05l6.apps.googleusercontent.com',
+    iosClientId:
+        '458108188251-6lb1ordniffq3uigmrq9mkju9s4d05l6.apps.googleusercontent.com',
     iosBundleId: 'com.example.parking',
   );
 }
