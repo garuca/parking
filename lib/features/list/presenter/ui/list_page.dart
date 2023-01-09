@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:go_router/go_router.dart';
-import 'package:parking/common/widgets/custom_list_view.dart';
+import 'package:parking/features/list/presenter/ui/widget/custom_list_view.dart';
 import 'package:parking/features/list/presenter/list_cubit.dart';
 import 'package:parking/features/list/presenter/list_state.dart';
 import 'package:parking/features/list/presenter/ui/list_loading_page.dart';
